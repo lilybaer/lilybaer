@@ -1,7 +1,7 @@
-## Hi there, I'm Lily Baer 👋
+# *Hi there, I'm Lily Baer 👋*
 I am a Computer Science major and Math minor student passionate about technology and software development. Currently, I'm focused on cleaning up my old repositories and updating my portfolio with all of my recent projects.
 
-🚀 About Me
+## 🚀 About Me
 
 📚 Studying Computer Science and Mathematics, constantly learning new concepts and honing my skills.
 
@@ -9,7 +9,7 @@ I am a Computer Science major and Math minor student passionate about technology
 
 🌍 Passionate about traveling, always looking for new adventures and inspiration from different cultures and environments.
 
-🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 Languages: Java, Python, C, Swift, JavaScript, SQL
 
@@ -17,7 +17,7 @@ Frameworks & Libraries: Vue.js, React, Node.js, Flask, Django, TensorFlow, panda
 
 Tools: Git, Docker, VS Code, IntelliJ, PyCharm, MongoDB, PostgreSQL, Tableau
 
-📫 Get in Touch
+## 📫 Get in Touch
 
 📧 Email: lilsbaer@gmail.com
 
